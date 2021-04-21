@@ -14,3 +14,8 @@ https://github.com/ONE-store/onestore_iaa_release/tree/main/android_app_sample/a
 
 ## Sample
 
+You need to get an App Key and App Hash Key from the ONE store dev site for builing of app. <br>
+Please visit [ONE store dev site](https://dev.onestore.co.kr) for detail guide of develop and release.
+
+
+
