@@ -3,7 +3,14 @@
 
 ## SDK
 
-https://github.com/ONE-store/onestore_iaa_release/tree/main/android_app_sample/app/libs
+The ONE store IAA SDK must has ONEstore apps(ONEstore client & ONEstore service)
+
+Almost android devices of Korea carriers include the ONE store. <br>
+But, if you didn't have this app on test device, you can visit our site for downloading apps.
+
+ONE store Client : https://m.onestore.co.kr/mobilepoc/etc/marketDownloadGuide.omp <br>
+ONE store Service : https://m.onestore.co.kr/mobilepoc/etc/downloadGuide.omp <br>
+SDK download : https://github.com/ONE-store/onestore_iaa_release/tree/main/android_app_sample/app/libs
 
 |SDK Version|Description|
 |-----|-----|
