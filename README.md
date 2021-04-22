@@ -5,7 +5,7 @@
 
 The ONE store IAA SDK must has ONEstore apps(ONEstore client & ONEstore service)
 
-Almost android devices of Korea carriers include the ONE store. <br>
+Almost android devices of Korea carrier include the ONE store. <br>
 But, if you didn't have this app on test device, you can visit our site for downloading apps.
 
 ONE store Client : https://m.onestore.co.kr/mobilepoc/etc/marketDownloadGuide.omp <br>
